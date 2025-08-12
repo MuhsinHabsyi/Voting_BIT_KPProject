@@ -1,0 +1,3 @@
+/var/www/html/evote_bfv/he-bfv/build/CMakeFiles/he_bfv.dir
+/var/www/html/evote_bfv/he-bfv/build/CMakeFiles/edit_cache.dir
+/var/www/html/evote_bfv/he-bfv/build/CMakeFiles/rebuild_cache.dir
